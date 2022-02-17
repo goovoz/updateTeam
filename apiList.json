@@ -1,6 +1,6 @@
 {
     "qName": "test",
-    "qTime": "23",
+    "qTime": "0",
     "lqSpace": 1,
     "endDate":"2022-03-09",
     "qApi":"https://api.m.jd.com/client.action?functionId=newBabelAwardCollection&client=wh5&body=%7B%22activityId%22%3A%222wMdMXHjrjmTXwrDEFMCR5cMpZ8h%22%2C%22scene%22%3A%221%22%2C%22args%22%3A%22key%3DF3BEE3AFFE92D74DD188EFF743F22B88BE814D81CE5A3A52C127918E5C4FC3720DA0A86793B5996A4825B39868636360_bingo%2CroleId%3D8435A6AAE0622BB3B1C49F2A7ED98005_bingo%2CstrengthenKey%3D19F512DCD8EE34ABE9C4FB4A92C2F42A82A40D741CF4E20103C04CA013EBCC60_bingo%22%7D"
